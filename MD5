@@ -1,0 +1,9 @@
+e016be7fd771e9499d6418059107c92a *DESCRIPTION
+08e49c2dc3e44cc0268dd137c0c48aa6 *NAMESPACE
+e88dc96db989b9cf1749b33be06d95da *NEWS.md
+fc92aedf3bc96dedfc6c7eb6568434b4 *R/anon.R
+1f66966520f1f678bc3af6bb6f216546 *README.md
+b75829a8b33690a1c67aacd7ad4fdde3 *man/anonymise.Rd
+0f50c6cdc177d1b346e01c1edbbc6f6f *man/figures/logo.png
+0554c5958d44ed85bbaeef2630765de3 *tests/testthat.R
+e89a4ccffc49398dea0952f76e4c0871 *tests/testthat/test_anon.R
